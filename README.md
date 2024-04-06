@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Assignment for Cluster Protocol 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Here I have uploaded the ERC404 & ERC4907 token deployment and the image is uploaded on ipfs(pinata) which is also in the git repo for your reference.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+feel free to clone the repo and run the code.
