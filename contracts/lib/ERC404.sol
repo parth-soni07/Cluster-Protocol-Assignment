@@ -1,8 +1,8 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import {Ownable} from "./lib/Ownable.sol";
-import {ERC721Receiver} from "./lib/ERC721Receiver.sol";
+import {Ownable} from "./Ownable.sol";
+import {ERC721Receiver} from "./ERC721Receiver.sol";
 
 /// @notice ERC404
 ///         A gas-efficient, mixed ERC20 / ERC721 implementation

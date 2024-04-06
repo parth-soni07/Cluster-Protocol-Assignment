@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import {ERC404} from "./ERC404.sol";
+import {ERC404} from "./lib/ERC404.sol";
 import {Strings} from "@openzeppelin/contracts/utils/Strings.sol";
 
 contract MyERC404 is ERC404 {
